@@ -1,5 +1,5 @@
 ﻿name="Kodi Fire TV 1.0"
-url="https://www.dropbox.com/s/2qw309xph65hogp/KodiFireTV.zip?dl=1" 
+url="https://www.xxxxxxxxxxx" 
 img="http://miservidor.com/icono.png"
 fanart="http://miservidor.com/fondo.jpg"
 description="Build Kodi Fire TV"
